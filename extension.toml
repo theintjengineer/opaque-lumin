@@ -1,10 +1,10 @@
-id = "lumin-theme"
-name = "Lumin"
+id = "kk-theme"
+name = "KK"
 version = "0.0.2"
 schema_version = 1
 
-authors = ["Daksh Sharma <dakshsharma.tech>"]
+authors = ["KK <kk@thetrivium.mozmail.com>"]
 
 
-description = "Peppermint flavored theme; offspring of Vesper & Cursor."
-repository = "https://github.com/frypan05/Lumin"
+description = "Peppermint flavored theme; offspring of Vesper & Cursor. Based on Lumin from Daksh Sharma <dakshsharma.tech>"
+repository = "https://github.com/theintjengineer/opaque-lumin"
